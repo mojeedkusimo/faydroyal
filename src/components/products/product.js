@@ -7,10 +7,10 @@ class Products extends React.Component {
     }
 
     componentDidMount(){
-        axios.get('https://jsonplaceholder.typicode.com/photos').then((res) => {
+        axios.get('https://quiet-earth-55477.herokuapp.com/api/products').then((res) => {
             console.log(res);
             this.setState({
-                photos: res.data.slice(0,12)
+                photos: res.data
             })
         })
     }
@@ -21,9 +21,10 @@ class Products extends React.Component {
             photos.map(photos => {
                 return (
 
-                    <div className='col-md-3 col-6' key={photos.id}>
+                    <div className='col-md-3 col-6' key={photos._id}>
                         <img src={photos.url} className='img-responsive w-100' />
                         <p>{photos.title}</p>
+                        <p>{photos.price}</p>
                     </div>
                 
                 )

@@ -9,7 +9,7 @@ class MenShoes extends React.Component {
             <div className='col-12  text-danger bg-white shadow'>
                 <p className='pt-3 text-left h4 px-3'>Men Shoes</p>
                 <div className='dropdown-divider'></div>
-                <div className='text-danger  text-left p-3'>9 products found</div>
+                <div className='text-danger  text-left p-3'>12 products found</div>
                 <Products/>
             </div>
           </div>
