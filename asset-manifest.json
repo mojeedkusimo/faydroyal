@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/faydroyal/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/faydroyal/static/js/main.9038906a.chunk.js",
+    "main.js.map": "/faydroyal/static/js/main.9038906a.chunk.js.map",
+    "runtime-main.js": "/faydroyal/static/js/runtime-main.6dc763dc.js",
+    "runtime-main.js.map": "/faydroyal/static/js/runtime-main.6dc763dc.js.map",
+    "static/js/2.8aac0e6c.chunk.js": "/faydroyal/static/js/2.8aac0e6c.chunk.js",
+    "static/js/2.8aac0e6c.chunk.js.map": "/faydroyal/static/js/2.8aac0e6c.chunk.js.map",
+    "index.html": "/faydroyal/index.html",
+    "precache-manifest.5133915ad701f3881ae1d7ab7a0386f7.js": "/faydroyal/precache-manifest.5133915ad701f3881ae1d7ab7a0386f7.js",
+    "service-worker.js": "/faydroyal/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/faydroyal/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8aac0e6c.chunk.js.LICENSE.txt": "/faydroyal/static/js/2.8aac0e6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dc763dc.js",
+    "static/js/2.8aac0e6c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.9038906a.chunk.js"
+  ]
+}
